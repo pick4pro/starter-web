@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jimmy Wright	jimjwright72@gmail.com
 
 # THANKS
 
